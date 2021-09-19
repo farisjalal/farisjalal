@@ -2,7 +2,7 @@
 
 Based out of Sydney, Australia 🇦🇺
 
-Undertaking Bachelor’s Degree in Software Engineering (Honours) at [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '23
+Pursuing a Bachelor’s Degree in Software Engineering (Honours) at [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '23
 
 IT Subcom Member at [@unswwit](https://github.com/unswwit). Responsibilities mainly include dev and maintenance of their [website](https://unswwit.com/#/).
 

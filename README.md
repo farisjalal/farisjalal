@@ -50,4 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Wesbite](https://img.shields.io/badge/-My%20Website-green?style=flat-square&logo=Web&logoColor=white&link=https://xxx.yy)](https://xxx.yy)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farisjalal&theme=vue)
 -->

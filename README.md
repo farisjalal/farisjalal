@@ -4,7 +4,9 @@ Based out of Sydney, Australia 🇦🇺
 
 Pursuing a Bachelor’s Degree in Software Engineering (Honours) at [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '23
 
-IT Subcom Member at [@unswwit](https://github.com/unswwit). Responsibilities mainly include dev and maintenance of their [website](https://unswwit.com/#/).
+IT Director at [@UNSWEntsoc](https://github.com/UNSWEntsoc)
+
+Previously IT Subcom Member at [@unswwit](https://github.com/unswwit). Responsibilities mainly included dev and maintenance of their [website](https://unswwit.com/#/).
 
 Previously Intern at [Walkerscott](https://walkerscott.co/).
 

@@ -2,7 +2,7 @@
 
 Based out of Sydney, Australia 🇦🇺
 
-Pursuing a Bachelor’s Degree in Software Engineering (Honours) at [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '23
+Pursuing a Bachelor’s Degree in Software Engineering (Honours) at [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '24
 
 IT Director at [@UNSWEntsoc](https://github.com/UNSWEntsoc)
 

@@ -2,9 +2,11 @@
 
 Based out of Sydney, Australia 🇦🇺
 
-Pursuing a Bachelor’s Degree in Software Engineering (Honours) at [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '24
+Recent CS Graduate from [UNSW](https://en.wikipedia.org/wiki/University_of_New_South_Wales), Batch of '24
 
-IT Director at [@UNSWEntsoc](https://github.com/UNSWEntsoc)
+Keen to collaborate!
+
+Previously IT Director at [@UNSWEntsoc](https://github.com/UNSWEntsoc)
 
 Previously IT Subcom Member at [@unswwit](https://github.com/unswwit). Responsibilities mainly included dev and maintenance of their [website](https://unswwit.com/#/).
 
